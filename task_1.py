@@ -1,0 +1,7 @@
+print('Вид питомца:')
+pet_type = input()
+print('Кличка:')
+pet_name = input()
+print('Возраст:')
+pet_age = input()
+print('Это', pet_type, 'по кличке', '"'+ pet_name + '".', 'Возраст:', pet_age, 'года.')
